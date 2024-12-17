@@ -16,7 +16,7 @@
 #include "selfdrive/ui/qt/widgets/ssh_keys.h"
 #ifdef SUNNYPILOT
 #include "selfdrive/ui/sunnypilot/sunnypilot_main.h"
-#endif 
+#endif
 
 TogglesPanel::TogglesPanel(SettingsWindow *parent) : ListWidget(parent) {
   RETURN_IF_SUNNYPILOT
@@ -198,7 +198,7 @@ DevicePanel::DevicePanel(SettingsWindow *parent) : ListWidget(parent) {
   addItem(new LabelControl(tr("Serial"), params.get("HardwareSerial").c_str()));
 
   pair_device = new ButtonControl(tr("Pair Device"), tr("PAIR"),
-                                  tr("Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer."));
+                                  tr("Pair your device with comma connect (stable.konic.ai) and claim your comma prime offer."));
   connect(pair_device, &ButtonControl::clicked, [=]() {
     PairingPopup popup(this);
     popup.exec();

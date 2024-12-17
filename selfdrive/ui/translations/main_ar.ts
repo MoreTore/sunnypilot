@@ -496,8 +496,8 @@ Please use caution when using this feature. Only use the blinker when traffic an
         <translation>مراجعة</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>اقرن جهازك بجهاز (connect.comma.ai) واحصل على عرضك من comma prime.</translation>
+        <source>Pair your device with comma connect (stable.konic.ai) and claim your comma prime offer.</source>
+        <translation>اقرن جهازك بجهاز (stable.konic.ai) واحصل على عرضك من comma prime.</translation>
     </message>
     <message>
         <source>Pair Device</source>
@@ -795,8 +795,8 @@ Pause Steering: ALC will be paused after the brake pedal is manually pressed.</s
         <translation>التنقل</translation>
     </message>
     <message>
-        <source>Manage at connect.comma.ai</source>
-        <translation>الإدارة في connect.comma.ai</translation>
+        <source>Manage at stable.konic.ai</source>
+        <translation>الإدارة في stable.konic.ai</translation>
     </message>
 </context>
 <context>
@@ -1216,16 +1216,16 @@ Warning: You are on a metered connection!</source>
         <translation>اقرن جهازك مع حسابك على comma</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>انتقل إلى https://connect.comma.ai على جوالك</translation>
+        <source>Go to https://stable.konic.ai on your phone</source>
+        <translation>انتقل إلى https://stable.konic.ai على جوالك</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>انقر &quot;،إضافة جهاز جديد&quot;، وامسح رمز الاستجابة السريعة (QR) على اليمين</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>اجعل لـconnect.comma.ai إشارة مرجعية على شاشتك  الرئيسية من أجل استخدامه مثل أي تطبيق</translation>
+        <source>Bookmark stable.konic.ai to your home screen to use it like an app</source>
+        <translation>اجعل لـstable.konic.ai إشارة مرجعية على شاشتك  الرئيسية من أجل استخدامه مثل أي تطبيق</translation>
     </message>
 </context>
 <context>
@@ -1291,8 +1291,8 @@ Warning: You are on a metered connection!</source>
         <translation>الترقية الآن</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>كن عضوًا في comma prime على connect.comma.ai</translation>
+        <source>Become a comma prime member at stable.konic.ai</source>
+        <translation>كن عضوًا في comma prime على stable.konic.ai</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -1776,8 +1776,8 @@ Reboot Required.</source>
         <translation>إنهاء الإعداد</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>اقرن جهازك بجهاز (connect.comma.ai) واحصل على عرضك من comma prime.</translation>
+        <source>Pair your device with comma connect (stable.konic.ai) and claim your comma prime offer.</source>
+        <translation>اقرن جهازك بجهاز (stable.konic.ai) واحصل على عرضك من comma prime.</translation>
     </message>
     <message>
         <source>Pair device</source>

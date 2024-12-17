@@ -496,8 +496,8 @@ Please use caution when using this feature. Only use the blinker when traffic an
         <translation>ทบทวน</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>จับคู่อุปกรณ์ของคุณกับ comma connect (connect.comma.ai) และรับข้อเสนอ comma prime ของคุณ</translation>
+        <source>Pair your device with comma connect (stable.konic.ai) and claim your comma prime offer.</source>
+        <translation>จับคู่อุปกรณ์ของคุณกับ comma connect (stable.konic.ai) และรับข้อเสนอ comma prime ของคุณ</translation>
     </message>
     <message>
         <source>Pair Device</source>
@@ -790,8 +790,8 @@ Pause Steering: ALC will be paused after the brake pedal is manually pressed.</s
         <translation>การนำทาง</translation>
     </message>
     <message>
-        <source>Manage at connect.comma.ai</source>
-        <translation>จัดการได้ที่ connect.comma.ai</translation>
+        <source>Manage at stable.konic.ai</source>
+        <translation>จัดการได้ที่ stable.konic.ai</translation>
     </message>
 </context>
 <context>
@@ -1211,16 +1211,16 @@ Warning: You are on a metered connection!</source>
         <translation>จับคู่อุปกรณ์ของคุณกับบัญชี comma ของคุณ</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>ไปที่ https://connect.comma.ai ด้วยโทรศัพท์ของคุณ</translation>
+        <source>Go to https://stable.konic.ai on your phone</source>
+        <translation>ไปที่ https://stable.konic.ai ด้วยโทรศัพท์ของคุณ</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>กดที่ &quot;add new device&quot; และสแกนคิวอาร์โค้ดทางด้านขวา</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>จดจำ connect.comma.ai โดยการเพิ่มไปยังหน้าจอโฮม เพื่อใช้งานเหมือนเป็นแอปพลิเคชัน</translation>
+        <source>Bookmark stable.konic.ai to your home screen to use it like an app</source>
+        <translation>จดจำ stable.konic.ai โดยการเพิ่มไปยังหน้าจอโฮม เพื่อใช้งานเหมือนเป็นแอปพลิเคชัน</translation>
     </message>
 </context>
 <context>
@@ -1286,8 +1286,8 @@ Warning: You are on a metered connection!</source>
         <translation>อัพเกรดเดี๋ยวนี้</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>สมัครสมาชิก comma prime ได้ที่ connect.comma.ai</translation>
+        <source>Become a comma prime member at stable.konic.ai</source>
+        <translation>สมัครสมาชิก comma prime ได้ที่ stable.konic.ai</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -1756,8 +1756,8 @@ Reboot Required.</source>
         <translation>ตั้งค่าเสร็จสิ้น</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>จับคู่อุปกรณ์ของคุณกับ comma connect (connect.comma.ai) และรับข้อเสนอ comma prime ของคุณ</translation>
+        <source>Pair your device with comma connect (stable.konic.ai) and claim your comma prime offer.</source>
+        <translation>จับคู่อุปกรณ์ของคุณกับ comma connect (stable.konic.ai) และรับข้อเสนอ comma prime ของคุณ</translation>
     </message>
     <message>
         <source>Pair device</source>

@@ -496,8 +496,8 @@ Please use caution when using this feature. Only use the blinker when traffic an
         <translation>다시보기</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>장치를 comma connect (connect.comma.ai)에서 페어링하고 comma prime 무료 이용권을 사용하세요.</translation>
+        <source>Pair your device with comma connect (stable.konic.ai) and claim your comma prime offer.</source>
+        <translation>장치를 comma connect (stable.konic.ai)에서 페어링하고 comma prime 무료 이용권을 사용하세요.</translation>
     </message>
     <message>
         <source>Pair Device</source>
@@ -790,8 +790,8 @@ Pause Steering: ALC will be paused after the brake pedal is manually pressed.</s
         <translation>내비게이션</translation>
     </message>
     <message>
-        <source>Manage at connect.comma.ai</source>
-        <translation>connect.comma.ai에서 관리하세요</translation>
+        <source>Manage at stable.konic.ai</source>
+        <translation>stable.konic.ai에서 관리하세요</translation>
     </message>
 </context>
 <context>
@@ -1211,16 +1211,16 @@ Warning: You are on a metered connection!</source>
         <translation>장치를 comma 계정에 동기화합니다</translation>
     </message>
     <message>
-        <source>Go to https://connect.comma.ai on your phone</source>
-        <translation>https://connect.comma.ai에 접속하세요</translation>
+        <source>Go to https://stable.konic.ai on your phone</source>
+        <translation>https://stable.konic.ai에 접속하세요</translation>
     </message>
     <message>
         <source>Click &quot;add new device&quot; and scan the QR code on the right</source>
         <translation>&quot;새 장치 추가&quot;를 클릭하고 오른쪽 QR 코드를 스캔하세요</translation>
     </message>
     <message>
-        <source>Bookmark connect.comma.ai to your home screen to use it like an app</source>
-        <translation>connect.comma.ai를 앱처럼 사용하려면 홈 화면에 바로가기를 만드세요</translation>
+        <source>Bookmark stable.konic.ai to your home screen to use it like an app</source>
+        <translation>stable.konic.ai를 앱처럼 사용하려면 홈 화면에 바로가기를 만드세요</translation>
     </message>
 </context>
 <context>
@@ -1286,8 +1286,8 @@ Warning: You are on a metered connection!</source>
         <translation>지금 업그레이드하세요</translation>
     </message>
     <message>
-        <source>Become a comma prime member at connect.comma.ai</source>
-        <translation>connect.comma.ai에 접속하여 comma prime 회원으로 등록하세요</translation>
+        <source>Become a comma prime member at stable.konic.ai</source>
+        <translation>stable.konic.ai에 접속하여 comma prime 회원으로 등록하세요</translation>
     </message>
     <message>
         <source>PRIME FEATURES:</source>
@@ -1756,8 +1756,8 @@ Reboot Required.</source>
         <translation>설정 완료</translation>
     </message>
     <message>
-        <source>Pair your device with comma connect (connect.comma.ai) and claim your comma prime offer.</source>
-        <translation>장치를 comma connect (connect.comma.ai)에서 페어링하고 comma prime 무료 이용권을 사용하세요.</translation>
+        <source>Pair your device with comma connect (stable.konic.ai) and claim your comma prime offer.</source>
+        <translation>장치를 comma connect (stable.konic.ai)에서 페어링하고 comma prime 무료 이용권을 사용하세요.</translation>
     </message>
     <message>
         <source>Pair device</source>
